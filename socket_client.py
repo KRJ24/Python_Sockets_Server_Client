@@ -14,4 +14,6 @@ data=s.recv(1024).decode()
 print("Received from server:", data)
 s.close()#close the connection with the server
 
+#Testing commit
+
 
